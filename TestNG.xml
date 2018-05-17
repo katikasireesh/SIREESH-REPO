@@ -1,4 +1,4 @@
-set projectpath=E:\AppiumTutorials\selenium_practice\seleniumyoutube
-cd %projectpath%
-set classpath= %projectpath%\bin:%projectpath%\libs\*
-java org.testing.TestNG %projectpath%\testing.xml
+	set projectpath=E:\AppiumTutorials\selenium_practice\seleniumyoutube
+	cd %projectpath%
+	set classpath= %projectpath%\bin:%projectpath%\libs\*
+	java org.testing.TestNG %projectpath%\testing.xml
